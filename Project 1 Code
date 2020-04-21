@@ -1,4 +1,4 @@
-## //Follow Player Code
+## Follow Player Code
 
 using System.Collections;
 using System.Collections.Generic;
@@ -24,7 +24,7 @@ public class FollowPlayer : MonoBehaviour
 }
 
 
-## //Player Controller Code
+## Player Controller Code
 
 using System.Collections;
 using System.Collections.Generic;
